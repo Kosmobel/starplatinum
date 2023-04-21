@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    /*background-repeat: no-repeat;*/
+}
+
+section {
+    display: grid;
+    margin: 0 auto;
+    width: 95vw;
+    height: 500px;
+    z-index: 1;
+    background: linear-gradient(red, purple);
+}
+
+.headerContainer {
+    justify-content: center;
+}
+
+.intr {
+    justify-items: center;
+    align-items: center;
+    
+}
+.quatro {
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    
+}
+.grid-item {
+    display: grid;
+    place-self: center;
+    text-align: justify;
+    padding: 2%;
+}
