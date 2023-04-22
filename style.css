@@ -132,6 +132,9 @@ p {
 }
 
 @media (min-width: 32px)and(max-width: 1190px) {
+    * {
+        font-size: 2rem;
+    }
     .quatro {
         grid-template-columns: repeat(auto-fill, minmax(900px, 1fr));
     }
