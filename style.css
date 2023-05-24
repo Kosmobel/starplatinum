@@ -25,6 +25,9 @@ section {
     "img";
     background: url(images/mainbackgr.png);
 }
+.headerContainer h2 {
+    padding: 1rem;
+}
 .grid-item {
     display: grid;
     justify-items: center;
