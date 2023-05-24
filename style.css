@@ -25,9 +25,9 @@ section {
     "img";
     background: url(images/mainbackgr.png);
 }
-.intr h2 {
+.intr div h2 {
     padding: 1rem;
-    margin-bottom: 26px;
+    margin-bottom: 10px;
 }
 .grid-item {
     display: grid;
