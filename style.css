@@ -27,7 +27,7 @@ section {
 }
 .headerContainer h2 {
     padding: 1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 26px;
 }
 .grid-item {
     display: grid;
