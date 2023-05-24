@@ -107,6 +107,7 @@ h2 {
     font-size: 1.4rem;
     height: 40px;
     padding: 0 1rem;
+    margin-bottom: 10px;
 }
 .images {
     grid-template-columns: repeat(auto-fit, minmax(550px, 1fr));
